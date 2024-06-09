@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051776433115",
+    "project_id": "kmp-caltrack",
+    "storage_bucket": "kmp-caltrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051776433115:android:1e4e2a9def3bb178ed05fe",
+        "android_client_info": {
+          "package_name": "org.elginbrian.caltrack_gemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-_fn3SCgUrnXaeMmVxMefG0GPFz5i98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
