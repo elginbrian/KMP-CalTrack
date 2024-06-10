@@ -1,5 +1,6 @@
-### Live Product
-[CalTrack for Web](https://elginbrian.github.io/KMP-CalTrack/)
+## CalTrack powered by Gemini™
+
+---
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
