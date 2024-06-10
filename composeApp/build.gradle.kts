@@ -112,6 +112,7 @@ dependencies {
     implementation(libs.firebase.auth)
     implementation(libs.firebase.vertexai)
     implementation(libs.firebase.storage)
+    implementation(libs.firebase.common.ktx)
 }
 
 compose.desktop {
